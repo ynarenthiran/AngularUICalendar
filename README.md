@@ -6,7 +6,7 @@ Step 2: To install the Node dependencies "npm install".
 
 Step 3: To install the Bower dependency "bower install --save angular-ui-calendar".
                     or
-        Alternatively you can add it to your `bower.json` like this
+        Alternatively you can add it to your `bower.json` like this:
 
                 dependencies: {
                   "angular-ui-calendar": "latest"
